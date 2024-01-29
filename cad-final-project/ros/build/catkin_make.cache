@@ -1,0 +1,2 @@
+control:sim_bridge/camera_info_publisher:sim_bridge/dbw_mkz_msgs:sim_bridge/styx:sim_bridge/styx_msgs:sim_bridge/waypoint_loader:tl_detector:waypoint_follower:waypoint_updater
+-DCATKIN_DEVEL_PREFIX=/host/ros/devel -DCMAKE_INSTALL_PREFIX=/host/ros/install -G Unix Makefiles

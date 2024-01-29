@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /host/ros/devel/setup.sh

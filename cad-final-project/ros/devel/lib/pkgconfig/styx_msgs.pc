@@ -1,0 +1,8 @@
+prefix=/host/ros/devel
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/host/ros/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
